@@ -11,5 +11,7 @@ s.homepage         = 'https://github.com/765235992/DJCategoryFramework'
 s.license      = "MIT"
 s.author           = { 'Jone' => '765235992@qq.com' }
 s.source           = { :git => 'https://github.com/765235992/DJCategoryFramework.git', :tag => '0.0.3' }
+  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  s.exclude_files = "Classes/Exclude"
 s.libraries = 'c++','z'
 end
