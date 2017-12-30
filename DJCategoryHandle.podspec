@@ -10,6 +10,6 @@ s.description  = "这是1111。"
 s.homepage         = 'https://github.com/765235992/DJCategoryFramework'
 s.license      = "MIT"
 s.author           = { 'Jone' => '765235992@qq.com' }
-s.source           = { :git => 'https://github.com/765235992/DJCategoryFramework.git', :tag => '0.0.2' }
+s.source           = { :git => 'https://github.com/765235992/DJCategoryFramework.git', :tag => '0.0.3' }
 s.libraries = 'c++','z'
 end
