@@ -1,0 +1,6 @@
+framework module DJCategory {
+  umbrella header "DJCategory.h"
+
+  export *
+  module * { export * }
+}
